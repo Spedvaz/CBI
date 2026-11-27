@@ -1,0 +1,3 @@
+En el paquete 787 se escribieron los valores 1 y 600 en los registros 3 y 4, activando el modo de sensor manipulado y fijando la medición publicada en 60 °C. En el paquete 1614 se restauró el funcionamiento normal mediante los valores 0 y 600. La manipulación permaneció activa durante aproximadamente 58,87 segundos.
+
+    
